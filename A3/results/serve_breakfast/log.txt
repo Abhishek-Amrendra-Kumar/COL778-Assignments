@@ -1,0 +1,222 @@
+Action No. 1
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 2
+lastAction: OpenObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 3
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Bread|-00.70|+01.00|-00.20
+#---------#
+Action No. 4
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 5
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 6
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Knife|-00.50|+01.10|+02.00
+#---------#
+Action No. 7
+lastAction: SliceObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 8
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 9
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Bread|-00.70|+01.00|-00.20|BreadSliced_1
+#---------#
+Action No. 10
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 11
+lastAction: ToggleObjectOn
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 12
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Bread|-00.70|+01.00|-00.20|BreadSliced_1
+#---------#
+Action No. 13
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 14
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 15
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 16
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Egg|-00.70|+01.00|-00.50
+#---------#
+Action No. 17
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 18
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 19
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 20
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Knife|-00.50|+01.10|+02.00
+#---------#
+Action No. 21
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 22
+lastAction: SliceObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 23
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 24
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Pan|+02.50|+01.10|-01.50
+#---------#
+Action No. 25
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 26
+lastAction: ToggleObjectOn
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 27
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Pan|+02.50|+01.10|-01.50
+#---------#
+Action No. 28
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 29
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 30
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 31
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Mug|+01.50|+01.10|-01.50
+#---------#
+Action No. 32
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 33
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 34
+lastAction: ToggleObjectOn
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 35
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Mug|+01.50|+01.10|-01.50
+#---------#
+Action No. 36
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 37
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#

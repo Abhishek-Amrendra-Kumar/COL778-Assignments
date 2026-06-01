@@ -1,0 +1,6 @@
+Action No. 1
+lastAction: OpenObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#

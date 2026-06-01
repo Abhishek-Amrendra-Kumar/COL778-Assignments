@@ -1,0 +1,84 @@
+Action No. 1
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 2
+lastAction: OpenObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 3
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Bread|-00.70|+01.00|-00.20
+#---------#
+Action No. 4
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 5
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 6
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Knife|-00.50|+01.10|+02.00
+#---------#
+Action No. 7
+lastAction: SliceObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 8
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 9
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Bread|-00.70|+01.00|-00.20|BreadSliced_1
+#---------#
+Action No. 10
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 11
+lastAction: ToggleObjectOn
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 12
+lastAction: PickupObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: Bread|-00.70|+01.00|-00.20|BreadSliced_1
+#---------#
+Action No. 13
+lastAction: Teleport
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
+Action No. 14
+lastAction: PutObject
+lastActionSuccess: True
+errorMessage: 
+actionReturn: None
+#---------#
